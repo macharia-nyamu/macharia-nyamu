@@ -1,12 +1,11 @@
-Greetings, Innovators and Tech Enthusiasts! 🌟
-
--
+**Greetings, Innovators and Tech Enthusiasts! ** 🦁
 
 As a dedicated Software Engineer, I specialize in Android development, web solutions, database management, and crafting efficient APIs. My passion lies in delivering innovative and scalable solutions to meet modern technological challenges.
 
-🌟 Technologies Stack
-
 -
+
+🦁 ** Technologies Stack**
+
 
 | **Category**                         | **Technology/Tool**                               |
 |--------------------------------------|---------------------------------------------------|
@@ -19,3 +18,32 @@ As a dedicated Software Engineer, I specialize in Android development, web solut
 | **Databases**                        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
 | **Cloud Storage**                    | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) |
 | **Other Tools and Technologies**     | ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
+| **AI Integration**                   | ![OpenAI](https://img.shields.io/badge/OpenAI-212121?logo=openai&logoColor=white) |
+
+-
+
+🧑‍💻 **Developer/Forums**  
+
+| **Platform**        |                                                                  |
+|---------------------|--------------------------------------------------------------------------|
+| Stack Overflow      | ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white) |
+| OpenAI Community        | ![OpenAI](https://img.shields.io/badge/OpenAI_Community-212121?logo=openai&logoColor=white) |
+
+-
+
+🦁 **Expertise**  
+My expertise encompasses:  
+- **Android Development**: Building robust and scalable mobile applications with seamless user experiences.  
+- **Database Management**: Designing and optimizing databases to ensure efficient data storage and retrieval.  
+- **RESTful APIs**: Crafting scalable, efficient REST APIs pivotal in modern application development.  
+- **Web Development**: Engineering responsive and dynamic websites to provide users with optimal digital experiences.
+
+Want to explore further? Get in touch to discover my full range of expertise, including Android development, database management, API design, web development, and more.
+
+-
+
+📈 **Stats**
+
+📫 **How to reach me**:  
+- Via phone: +254798622497  
+- Via email: macharianyamu.info@gmail.com
