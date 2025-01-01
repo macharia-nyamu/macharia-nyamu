@@ -2,7 +2,7 @@
 
 As a dedicated Software Engineer, I specialize in Android development, web solutions, database management, and crafting efficient APIs. My passion lies in delivering innovative and scalable solutions to meet modern technological challenges.
 
--
+---
 
 🦁 ** Technologies Stack**
 
@@ -20,7 +20,7 @@ As a dedicated Software Engineer, I specialize in Android development, web solut
 | **Other Tools and Technologies**     | ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
 | **AI Integration**                   | ![OpenAI](https://img.shields.io/badge/OpenAI-212121?logo=openai&logoColor=white) |
 
--
+---
 
 🧑‍💻 **Developer/Forums**  
 
@@ -29,7 +29,7 @@ As a dedicated Software Engineer, I specialize in Android development, web solut
 | Stack Overflow      | ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?logo=stack-overflow&logoColor=white) |
 | OpenAI Community        | ![OpenAI](https://img.shields.io/badge/OpenAI_Community-212121?logo=openai&logoColor=white) |
 
--
+---
 
 🦁 **Expertise**  
 My expertise encompasses:  
@@ -40,7 +40,7 @@ My expertise encompasses:
 
 Want to explore further? Get in touch to discover my full range of expertise, including Android development, database management, API design, web development, and more.
 
--
+---
 
 📈 **Stats**
 
