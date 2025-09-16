@@ -1,16 +1,44 @@
-## Hi there 👋
+# Macharia Nyamū
 
-<!--
-**macharia-nyamu/macharia-nyamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ About Me
+I am a **C programmer and embedded systems engineer** specializing in **low-level programming, hardware design, and system architecture**.  
+I build **efficient, high-performance systems** spanning **microcontrollers, PCB design, Linux systems, and drones**.  
+I tackle **complex technical challenges** and deliver **robust, battle-tested solutions**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- **Email:** macharianyamu.info@gmail.com  
+- **WhatsApp / SMS / Call:** +254798622497  
+
+---
+
+### 🛠️ Professional Tech Stack
+
+| **Category** | **Skills & Expertise** |
+|--------------|-----------------------|
+| 💻 **Programming** | C |
+| 🖥️ **Systems & OS** | Linux, POSIX APIs, Concurrency & Multithreading, Networking (TCP/IP, sockets) |
+| 🔧 **Hardware & Embedded** | Microcontrollers / Embedded Firmware, PCB & Circuit Design, CAD & Hardware Implementation, Drone Technology |
+| 📊 **Algorithms & Data** | Advanced algorithm design, Optimization techniques, Memory safety and management |
+| 🏗️ **System Design** | Embedded system architecture, Performance tuning & optimization, Resource-constrained system design |
+
+---
+
+### 🚀 Key Projects
+- **[Mathi C Library](https://github.com/macharia-nyamu/mathi_c)** – High-performance C library for algorithms, data structures, and system utilities.  
+- Embedded systems and microcontroller firmware projects.  
+- PCB and hardware design using CAD tools.  
+- Drone technology and advanced IoT prototypes.  
+
+---
+
+### 🌱 Mastering
+- Advanced drone control systems  
+- Real-time embedded system optimization  
+- Low-latency networking and communication protocols  
+
+---
+
+### 📊 GitHub Stats
+![Macharia's GitHub stats](https://github-readme-stats.vercel.app/api?username=macharia-nyamu&show_icons=true&theme=radical)
